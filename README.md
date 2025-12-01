@@ -1,0 +1,56 @@
+# Nightwish – Last Ride Of The Day
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:35.71] We live in every moment but this one
+[00:40.00] Why don't we recognize the faces loving us so
+[01:02.50] 
+[00:44.51] What's God if not the spark that started life
+[00:49.13] Smile of a stranger
+[00:51.17] Sweet music, starry skies
+[00:53.65] Wonder, mystery, wherever my road goes
+[00:57.82] Early wake-ups in a moving home
+[01:02.32] Scent of fresh-mown grass in the morning sun
+[01:06.68] Open theme park gates waiting for
+[01:23.18] 
+[01:10.89] Riding the day, every day into sunset
+[01:13.90] Finding the way back home
+[01:26.40] 
+[01:16.73] Once upon a night we'll wake to the carnival of life
+[01:22.46] The beauty of this ride ahead such an incredible high
+[01:28.26] It's hard to light a candle, easy to curse the dark instead
+[01:34.39] This moment the dawn of humanity
+[01:37.42] The last ride of the day
+[01:48.88] Last ride of the day
+[01:58.88] 
+[01:58.78] Wake up, Dead Boy
+[02:00.66] Enter adventureland
+[02:03.23] Tricksters, magicians will show you all that's real
+[02:07.53] Careless jugglers, snakecharmers by your trail
+[02:11.94] Magic of a moment
+[02:14.98] Abracadabra
+[02:20.48] 
+[02:16.45] Riding the day, every day into sunset
+[02:18.89] Finding the way back home
+[02:31.39] 
+[02:22.08] Once upon a night we'll wake to the carnival of life
+[02:27.53] The beauty of this ride ahead such an incredible high
+[02:33.46] It's hard to light a candle, easy to curse the dark instead
+[02:39.30] This moment the dawn of humanity
+[02:42.87] The last ride of the day
+[02:54.87] 
+[03:20.78] Once upon a night we'll wake to the carnival of life
+[03:26.31] The beauty of this ride ahead such an incredible high
+[03:32.17] It's hard to light a candle, easy to curse the dark instead
+[03:38.00] This moment the dawn of humanity
+[03:41.35] The last ride of the day
+[03:53.35] 
+[03:44.24] Once upon a night we'll wake to the carnival of life
+[03:49.95] The beauty of this ride ahead such an incredible high
+[03:55.77] It's hard to light a candle, easy to curse the dark instead
+[04:01.67] This moment the dawn of humanity
+[04:04.94] The last ride of the day
+[04:16.94] 
+[04:15.87] Last ride of the day
+```
